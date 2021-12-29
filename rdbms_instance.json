@@ -17,3 +17,6 @@
       "status": "ACTIVE"
     }
   }
+
+
+curl -u : --negotiate -X POST -d @rdbms_instace.json \ -H "Content-Type: application/json" 'http://{atlas-url}:21000/api/atlas/v2/entity'
