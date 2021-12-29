@@ -26,25 +26,8 @@ Basically Instance is parent of database, database contains tables and columns a
 
 --------------------------------------------------------------------------------
 Firstly, let’s create Instance entity, let’s review the JSON data for instance:
-{
-  "entity": {
-    "attributes": {
-      "owner": "admin",
-      "ownerName": "admin",
-      "name": "mysql instance",
-      "qualifiedName": "[email protected] cluster_test2",
-      "rdbms_type": "mysql",
-      "description": "mysql instance description",
-      "contact_info": "your contact info",
-      "platform": "Linux",
-      "hostname": "mysql.hostname.com",
-      "protocol": "mysql protocal",
-      "port": "3306"
-    },
-    "typeName": "rdbms_instance",
-    "status": "ACTIVE"
-  }
-}
+
+rdbms_instance.json
 ---------------------------------------------------------------------------------
 
 
