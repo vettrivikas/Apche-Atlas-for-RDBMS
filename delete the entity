@@ -1,0 +1,4 @@
+using post man 
+
+ url     - http://localhost:21000/api/atlas/v2/entity/guid/389fc-ic70-399f7-b3893a3-e49128
+ method  - delete 
