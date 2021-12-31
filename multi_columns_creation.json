@@ -1,0 +1,44 @@
+{
+    "entities":[
+        {
+            "attributes": {
+                "owner": "table user name ",
+                "ownerName": "table user name ",
+                "name": "request_id",
+                "qualifiedName": "request_id",
+                "default_value": null,
+                "isPrimaryKey": false,
+                "indexes": [],
+                "isNullable": false,
+                "data_type": "varchar(45)",
+                "description": "request id number",
+                "table": {
+                    "guid": "(guid of the table)8d50d276-8392-41ae-b7fe-289b1d18b528",
+                    "typeName": "rdbms_table"
+                }
+            },
+            "typeName": "rdbms_column",
+            "status": "ACTIVE"
+        },
+        {
+            "attributes": {
+                "owner": "table user name ",
+                "ownerName": "table user name ",
+                "name": "response_id",
+                "qualifiedName": "response_id",
+                "default_value": null,
+                "isPrimaryKey": false,
+                "indexes": [],
+                "isNullable": false,
+                "data_type": "varchar(45)",
+                "description": "response information",
+                "table": {
+                    "guid": "(guid of the table)8d50d276-8392-41ae-b7fe-289b1d18b528",
+                    "typeName": "rdbms_table"
+                }
+            },
+            "typeName": "rdbms_column",
+            "status": "ACTIVE"
+        }
+    ]
+}

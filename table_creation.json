@@ -1,0 +1,19 @@
+{
+    "entity": {
+      "attributes": {
+        "owner": "user",
+        "ownerName": "user",
+        "name": "table_name",
+        "db": {
+          "guid": "(guid of db)453eb20-87fd-4d01-be-6d296bf0fc6c", 
+          "typeName": "rdbms_db"
+        },
+        "qualifiedName": "table_name",
+        "description": "table description details",
+        "replicatedTo": null,
+        "replicatedFrom": null
+      },
+      "typeName": "rdbms_table",
+      "status": "ACTIVE"
+    }
+}
