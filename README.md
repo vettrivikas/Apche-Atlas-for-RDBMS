@@ -1,5 +1,6 @@
 # Apche-Atlas-for-RDBMS
 
+### using post man or curl 
 
 so i have idea to add mysql to apache atlas using pyspark and sqoop
 in saprk we can insert using hive_support() just add config of hive in spark session or default config 
